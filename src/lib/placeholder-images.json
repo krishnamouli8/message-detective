@@ -1,3 +1,40 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "avatar1",
+      "description": "Avatar of Sarah",
+      "imageUrl": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx3b21hbiUyMHBvcnRyYWl0fGVufDB8fHx8MTc2MTM4NTI1OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman portrait"
+    },
+    {
+      "id": "avatar2",
+      "description": "Avatar of Alex",
+      "imageUrl": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtYW4lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjE0NzAyMTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "avatar3",
+      "description": "Avatar of Michael",
+      "imageUrl": "https://images.unsplash.com/photo-1637979910374-ce7e8736b670?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwZXJzb24lMjBvZmZpY2V8ZW58MHx8fHwxNzYxNDUwMzk5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person office"
+    },
+    {
+      "id": "avatar4",
+      "description": "Avatar of Priya",
+      "imageUrl": "https://images.unsplash.com/photo-1692736475357-7c18bfbb808b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8d29tYW4lMjBzbWlsaW5nfGVufDB8fHx8MTc2MTQzNjQ5NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman smiling"
+    },
+    {
+      "id": "avatar5",
+      "description": "Avatar of David",
+      "imageUrl": "https://images.unsplash.com/photo-1621873982312-1f83e89a2f21?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxtYW4lMjBnbGFzc2VzfGVufDB8fHx8MTc2MTQ4MDI2OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man glasses"
+    },
+    {
+      "id": "avatar_user",
+      "description": "Avatar of the current user",
+      "imageUrl": "https://images.unsplash.com/photo-1482053450283-3e0b78b09a70?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxhYnN0cmFjdCUyMGdlb21ldHJpY3xlbnwwfHx8fDE3NjE0MDg3MDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract geometric"
+    }
+  ]
 }
