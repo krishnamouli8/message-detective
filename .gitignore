@@ -44,7 +44,7 @@ next-env.d.ts
 firebase-debug.log
 firestore-debug.log
 
-*.idx
+.idx/
 apphosting.yaml
 components.json
 *.modified
